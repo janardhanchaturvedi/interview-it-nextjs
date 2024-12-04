@@ -11,7 +11,15 @@
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "next": "15.0.3",
+    "@tiptap/extension-placeholder": "^2.2.4",
+    "@tiptap/pm": "^2.2.4",
+    "@tiptap/react": "^2.2.4",
+    "@tiptap/starter-kit": "^2.2.4",
+    "emoji-picker-react": "^4.8.0",
+    "lucide-react": "^0.344.0",
+    "react-plaid-link": "^3.5.1",
+    "recharts": "^2.12.2"
   },
   "devDependencies": {
     "typescript": "^5",
