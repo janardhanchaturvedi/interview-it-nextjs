@@ -1,8 +1,7 @@
+import DashboardPage from "@/Components/dashboard/DashboardPage";
 
 export default function Home() {
   return <>
-  <div className="bg-red-100 text-black">
-
-  </div>
+   <DashboardPage />
   </>;
 }
